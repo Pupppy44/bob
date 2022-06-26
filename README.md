@@ -17,6 +17,8 @@ Headers only, small executables, no DLLs
 </b>
 <br>
 Bob is brand new, so more is anticipated to arrive.
+<h1>How to Use</h1>
+To use Bob, simply add the <b>bob</b> folder to your project and include <b>bob.h</b>. Make sure you're utilizing a computer where <b>d2d1.lib</b> is available.
 <h1>Examples</h1>
 
 ```cpp
