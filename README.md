@@ -4,7 +4,7 @@
 </p>
 <h1>Bob</h1>
 <p>Bob is a 2D graphics library for Windows 7 and above and for operating systems that support Direct2D. Bob uses
-    Direct2D as its renderer hence the OS support, and it's relatively small to add to your project and use.</p>
+Direct2D as its renderer hence the OS support, and it's relatively small to add to your project and use.</p>
 <h1>Features</h1>
 <b>
 Objects [Rounded rectangles, circles]<br>
@@ -19,7 +19,7 @@ Headers only, small executables, no DLLs
 Bob is brand new, so more is anticipated to arrive.
 <h1>How to Use</h1>
 To use Bob, simply add the <b>bob</b> folder to your project and include <b>bob.h</b>.
-<b><i><ul>The bob folder can be found in releases. This library exists, trust me!</ul></i></b>
+<b><i>The bob folder can be found in releases. This library exists, trust me!</i></b>
 Make sure you're utilizing a computer where <b>d2d1.lib</b> is available.
 <h1>Examples</h1>
 
