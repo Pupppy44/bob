@@ -19,12 +19,12 @@ Headers only, small executables, no DLLs
 Bob is brand new, so more is anticipated to arrive.
 <h1>How to Use</h1>
 To use Bob, simply add the <b>bob</b> folder to your project and include <b>bob.h</b>.
-<b><i>The bob folder can be found in releases. This library exists, trust me!</i></b>
+<b><i>The bob folder can be found in releases and in the main branch.</i></b>
 Make sure you're utilizing a computer where <b>d2d1.lib</b> is available.
 <h1>Examples</h1>
 
 ```cpp
-// Simple example. Easy to set up and get goin'
+// Simple example.
 #include <bob.h>
 int main() {
     bob bob;
