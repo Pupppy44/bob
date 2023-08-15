@@ -1,22 +1,16 @@
 <p align="center"> <img width="default" height="300"
         src="https://cdn.discordapp.com/attachments/736359303744585821/990590102843568138/bob.png">
-<h3 align="center">A 2D Graphics Library for Windows</h3>
 </p>
-<h1>Bob</h1>
+<h1>bob - A 2D Graphics Library for Windows</h1>
 <p>Bob is a 2D graphics library for Windows 7 and above and for operating systems that support Direct2D. Bob uses
 Direct2D as its renderer hence the OS support, and it's relatively small to add to your project and use.</p>
 <h1>Features</h1>
-<b>
-Objects [Rounded rectangles, circles]<br>
-Text<br>
-Images [BMP, PNG, JPG, etc?]<br>
-Click Events<br>
-Headers only, small executables, no DLLs
+- Objects and shapes<br>
+- Text<br>
+- Images (BMP, PNG, JPG, etc)<br>
+- Click Events<br>
+- Headers only, small executables, no DLLs
 
-
-</b>
-<br>
-Bob is brand new, so more is anticipated to arrive.
 <h1>How to Use</h1>
 To use Bob, simply add the <b>bob</b> folder to your project and include <b>bob.h</b>.
 <b><i>The bob folder can be found in releases and in the main branch.</i></b>
@@ -87,4 +81,4 @@ int main()
 }
 ```
 # That's All
-That's all for this file. Don't hesitate to create an issue if you have a problem. bye
+That's all for this project. Don't hesitate to create an issue if you have a problem. Thanks!
