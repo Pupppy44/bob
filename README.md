@@ -1,4 +1,4 @@
-<p align="center"> <img width="default" height="300"
+<p align="center"> <img width="default" height="275"
         src="https://cdn.discordapp.com/attachments/736359303744585821/990590102843568138/bob.png">
 </p>
 <h1>bob - A 2D Graphics Library for Windows</h1>
